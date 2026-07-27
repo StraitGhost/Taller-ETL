@@ -107,3 +107,8 @@ Taller ETL/
 ├── ejemplo_generador.py     # Ejemplo didáctico del funcionamiento básico de yield
 └── ejemplo_generador_json.py# Ejemplo de Lazy Loading y procesamiento por lotes (JSONL)
 ```
+
+# evidencias
+
+![Arquitectura del proceso ETL](./imagenes/image.png)
+![Arquitectura del proceso ETL](./imagenes/1.png)
